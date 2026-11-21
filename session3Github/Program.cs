@@ -12,7 +12,7 @@ namespace session3Github
             Console.WriteLine(title1);
             Console.WriteLine(uppertitle);
             #endregion
-            #region Q2
+           /* #region Q2
             String s1 = "Clean code";
             string s2 = "Clean code";
             bool sameref = object.ReferenceEquals(s1, s2);
@@ -147,7 +147,7 @@ namespace session3Github
             }
             PrintFirstBook(books); 
             PrintFirstBook(Array.Empty<string>());
-            #endregion
+            #endregion*/
         }
 
     }
